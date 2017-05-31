@@ -1,5 +1,5 @@
  cmake_minimum_required(VERSION 3.8)
-PROJECT(SkeletonViz)
+PROJECT(testcode)
 
 FIND_PACKAGE(ITK REQUIRED)
 IF(ITK_FOUND)
