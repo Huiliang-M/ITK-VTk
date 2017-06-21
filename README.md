@@ -7,6 +7,6 @@ Environment:
 3. Cmake
 4. Mac OS
 
-Usage:  
-I put all the source files and data file on Desktop.                                                                                      I type the below command on terminal commandline
-./3Dtest "/Users/huilianghuang/Desktop/data/img (%d).tif" 1 113
+Testing:
+    I put the data file on Desktop, So I need to type on terminal commandine like this:
+    ./3Dtest "/Users/huilianghuang/Desktop/data/img (%d).tif" 1 113
