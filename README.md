@@ -8,5 +8,5 @@ Reading a series 2D images from ITK then transfer and visualize in 3D volume via
 4. Mac OS
 
 # Testing:
-I put the data file on Desktop, So I need to type on terminal commandine like this:
-./3Dtest "/Users/huilianghuang/Desktop/data/img (%d).tif" 1 113
+I put the data file on Desktop, So I need to type on terminal commandine like this: <br />
+./3Dtest "/Users/huilianghuang/Desktop/data/img (%d).tif" 1 113 <br />
