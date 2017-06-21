@@ -8,7 +8,8 @@ Environment:
 4. Mac OS
 
 
-Usage:  "./3Dtest <File Path Template> <Start Index> <End Index>"
+Usage:  
+"./3Dtest <File Path Template> <Start Index> <End Index>"
 
 I put all the source files and data file on Desktop.
 
