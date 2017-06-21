@@ -9,7 +9,7 @@ Environment:
 
 
 Usage:  
-"./3Dtest <File Path Template> <Start Index> <End Index>"
+//"./3Dtest <File Path Template> <Start Index> <End Index>"
 
 I put all the source files and data file on Desktop.
 
