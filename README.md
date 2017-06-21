@@ -12,4 +12,4 @@ I put the data file on Desktop, So I need to type on terminal commandine like be
 ./3Dtest "/Users/huilianghuang/Desktop/data/img (%d).tif" 1 113 <br />
 
 # Example Results:
-
+![alt tag](http://url/to/img.png)
