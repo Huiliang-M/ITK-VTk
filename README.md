@@ -12,7 +12,7 @@ Usage:  "./3Dtest <File Path Template> <Start Index> <End Index>"
 
 I put all the source files and data file on Desktop.
 
-So I type the below command on terminal commandline
+I type the below command on terminal commandline
 ./3Dtest "/Users/huilianghuang/Desktop/data/img (%d).tif" 1 113
 
 Example output:
